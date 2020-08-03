@@ -6,16 +6,16 @@ On the side I'm a digital product developer working on my own ventures, as well 
 
 ## Working on 👨‍💻
 
-- **Hike** ~ Hiring platform built specifically for creative studios/agencies & products 🚀 https://usehike.com
-- **Tap Tourist** ~ A little guide to finding the best craft beer spots in and around Manchester 🍺 https://taptourist.co.uk
-- **Gain+Glory** ~ Virtual garage and cycling events that automatically link with Strava data 🚴‍ https://gainandglory.co
+- [**Hike**](https://usehike.com) ~ Hiring platform built specifically for creative studios/agencies & products 🚀 
+- [**Tap Tourist**](https://taptourist.co.uk) ~ A little guide to finding the best craft beer spots in and around Manchester 🍺 
+- [**Gain+Glory**](https://gainandglory.co) ~ Virtual garage and cycling events that automatically link with Strava data 🚴‍ 
 
 # Stack 🤓
 
-Currently using CraftCMS, TailwindCSS, VueJS, AlpineJS + Netlify
+Currently using Craft CMS, Tailwind CSS, VueJS, AlpineJS, Netlify + DigitalOcean.
 
 # Writing 📝
 
-I try to write every so often, have a read over at https://bymayo.co.uk/writing/
+I try to write every so often on various topics, [have a read](https://bymayo.co.uk/writing/).
 
 
