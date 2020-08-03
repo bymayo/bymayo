@@ -10,11 +10,11 @@ On the side I'm a digital product developer working on my own ventures, as well 
 - [**Tap Tourist**](https://taptourist.co.uk) ~ A little guide to finding the best craft beer spots in and around Manchester 🍺 
 - [**Gain+Glory**](https://gainandglory.co) ~ Virtual garage and cycling events that automatically link with Strava data 🚴‍ 
 
-# Stack 🤓
+## Stack 🤓
 
 Currently using Craft CMS, Tailwind CSS, VueJS, AlpineJS, Netlify + DigitalOcean.
 
-# Writing 📝
+## Writing 📝
 
 I try to write every so often on various topics, [have a read](https://bymayo.co.uk/writing/).
 
