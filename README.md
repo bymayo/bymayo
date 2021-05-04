@@ -8,7 +8,7 @@ On the side I'm a digital product developer working on my own ventures, as well 
 
 - [**Hike**](https://usehike.com) ~ Hiring platform built specifically for creative studios/agencies & products 🚀 
 - [**Tap Tourist**](https://taptourist.co.uk) ~ A little guide to finding the best craft beer spots in and around Manchester 🍺 
-- [**Gain+Glory**](https://gainandglory.co) ~ Virtual garage and cycling events that automatically link with Strava data 🚴‍ 
+- [**Gain+Glory**](https://gainandglory.cc) ~ Virtual garage and cycling events that automatically link with Strava data 🚴‍ 
 
 ## Stack 🤓
 
