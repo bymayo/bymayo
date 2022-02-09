@@ -6,9 +6,9 @@ On the side I'm a digital product developer working on my own ventures, as well 
 
 ## Working on 👨‍💻
 
-- [**Hike**](https://usehike.com) ~ Hiring platform built specifically for creative studios/agencies & products 🚀 
+- [**Every Creative**](https://usehike.com) ~ Hiring platform built specifically for creative studios/agencies & products 🚀 
 - [**Tap Tourist**](https://taptourist.co.uk) ~ A little guide to finding the best craft beer spots in and around Manchester 🍺 
-- [**Gain+Glory**](https://gainandglory.cc) ~ Virtual garage and cycling events that automatically link with Strava data 🚴‍ 
+- [**single.tools**](https://single.tools) ~ A curated list of single-purpose tiny helper tools for designers & developers. 🖌
 
 ## Stack 🤓
 
