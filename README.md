@@ -8,7 +8,6 @@ On the side I'm a digital product developer working on my own ventures, as well 
 
 - [**Every Creative**](https://everycreativejobs.com) ~ Hiring platform built specifically for creative studios/agencies & products 🚀 
 - [**Tap Tourist**](https://taptourist.co.uk) ~ A little guide to finding the best craft beer spots in and around Manchester 🍺 
-// - [**single.tools**](https://single.tools) ~ A curated list of single-purpose tiny helper tools for designers & developers. 🖌
 
 ## Stack 🤓
 
