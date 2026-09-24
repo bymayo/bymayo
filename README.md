@@ -15,8 +15,8 @@ On the side I make apps and [Craft CMS plugins](https://plugins.craftcms.com/dev
 
 - [**Porter**](https://github.com/bymayo/craft-porter) — The missing toolbox for users and accounts
 - [**Points**](https://github.com/bymayo/craft-points) — Loyalty rewards with points, levels and leaderboards
-- **Vouch** — Customer reviews from Google, Trustpilot, Feefo and more
-- **Squash** — Image and PDF compression, with backups
+- [**Vouch**](https://github.com/bymayo/craft-vouch) — Customer reviews from Google, Trustpilot, Feefo and more
+- [**Squash**](https://github.com/bymayo/craft-squash) — Image and PDF compression, with backups
 - [**Curated**](https://github.com/bymayo/craft-curated) — Custom ordering for related elements
 - [**Commerce Widgets**](https://github.com/bymayo/craft-commerce-widgets) — Dashboard widgets for Craft Commerce
 - [**PDF Transform**](https://github.com/bymayo/craft-pdf-transform) — Turn PDF pages into images
@@ -24,4 +24,4 @@ On the side I make apps and [Craft CMS plugins](https://plugins.craftcms.com/dev
 
 ## Stack
 
-Craft CMS, Swift/SwiftUI, Tailwind CSS, Alpine.js.
+Craft CMS, Laravel, Swift/SwiftUI, React, Tailwind CSS, Alpine.js.
