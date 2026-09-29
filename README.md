@@ -8,8 +8,10 @@ On the side I make apps and [Craft CMS plugins](https://plugins.craftcms.com/dev
 
 - [**Folke**](https://FOLKE-URL) — Leave management that puts team wellbeing first
 - [**Cargo Dock**](https://cargodock.app) — A macOS app for managing DDEV projects
+- [**Pally**](https://PALLY-URL) — QR pet tags that link to your pet's profile
 - [**Every Creative**](https://everycreativejobs.com) — A hiring platform for creative studios and agencies
 - [**Tap Tourist**](https://taptourist.co.uk) — A guide to the best craft beer spots in Manchester
+- **Sidewell** `SOON` — Side-sleeping support for pregnancy, on Apple Watch
 
 ## Craft CMS 5 Plugins
 
